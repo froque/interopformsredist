@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>interopformsredist</id>
+    <version>1.0.0</version>
+    <title>Microsoft InteropForms Toolkit 2.1</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <projectUrl>https://www.microsoft.com/en-us/download/details.aspx?id=3264</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Allows developers to incorporate VB.NET WinForms into their VB6 applications.</description>
+    <tags>VB6 WinForms</tags>
+  </metadata>
+  <files>
+    <file src="Microsoft.InteropFormTools.dll" target="lib\net20" />
+  </files>
+</package>
